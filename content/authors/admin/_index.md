@@ -7,7 +7,6 @@ education:
   - course: B.S. in Psychology
     institution: Spring Hill College
     year: 2021
-
 email: "sapiaj@tamu.edu"
 first_name: Jeremy
 highlight_name: true
@@ -33,6 +32,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://drive.google.com/file/d/1hD5z7EWgY0zO6ns_jIM7QpWpXzFjHiRx/view?usp=share_link
+
 superuser: true
 title: Jeremy Sapia 
 ---
